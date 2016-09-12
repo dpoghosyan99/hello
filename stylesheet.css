@@ -1,0 +1,17 @@
+﻿h1
+{
+color:solid black;
+font-family:Garamont;
+}
+div
+{
+background-color:orange;
+width:350px;
+border-radius:80%;
+border:2px solid black;
+}
+p
+{color:red;
+text-decoration:underline;
+font-size:25px;
+}
